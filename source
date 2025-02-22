@@ -1,0 +1,15 @@
+local base = Instance.New("ScreenGui")
+base.Name = "CryptoMiner(Minor)"
+
+local Lib = {}
+
+function Lib.MakeWindow()
+
+local frame = Instance.New("Frame")
+frame.Parent = base
+
+end
+
+return Lib
+
+-- Note what this shit is going to be ass
